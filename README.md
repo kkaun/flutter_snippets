@@ -1,13 +1,13 @@
 # Flutter built-value/BLoC Live Templates for Android Studio
 
-Inspired by(and may be an addition to) https://github.com/benznest/flutter-snippet
+Inspired by (and may be an addition to) https://github.com/benznest/flutter-snippet
 
 Thanks to https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA tutorial series for the initial VSCode snippets idea.
 
 ![create Flutter Widget](images/2.gif)
 
 ## Installation
-Download [flutter-snippet.jar](https://github.com/kkaun/flutter_AS_live_templates/raw/master/flutter-built-live-templates.jar)
+Download [flutter-built-live-templates.jar](https://github.com/kkaun/flutter_AS_live_templates/raw/master/flutter-built-live-templates.jar)
 
 Android Studio > File > Import Settings<br />
 
