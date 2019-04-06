@@ -2,7 +2,7 @@
 
 Inspired by(and may be an addition to) https://github.com/benznest/flutter-snippet
 
-Thanks to https://www.youtube.com/watch?v=BJY8nuYUM7M&list=PLB6lc7nQ1n4jtXh6TgCEIO4kCfIT0-NZl tutorial series for initial VSCode snippets idea.
+Thanks to https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA tutorial series for the initial VSCode snippets idea.
 
 ![create Flutter Widget](images/2.gif)
 
